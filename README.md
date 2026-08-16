@@ -18,4 +18,4 @@ Check out my latest software benchmarks, in-depth reviews, and outreach guides:
 ---
 
 🔗 **Website:** [smartreviewinfo.com](https://smartreviewinfo.com)  
-📌 **Location:** India
+📌 **Location:** USA
