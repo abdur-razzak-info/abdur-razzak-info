@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Abdur Razzak 👋
 
-<!--
-**abdur-razzak-info/abdur-razzak-info** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**B2B Marketer & SaaS Software Evaluator**
 
-Here are some ideas to get you started:
+I help startups, founders, and sales teams discover the best software, automation tools, and lead generation solutions to scale their business.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Featured Platform
+Check out my latest software benchmarks, in-depth reviews, and outreach guides:
+👉 **[Smart Review Info](https://smartreviewinfo.com)**
+
+### 🛠️ What I Cover
+* **B2B Lead Generation Platforms**
+* **Cold Outreach & Email Deliverability**
+* **Growth Automation Software**
+
+---
+
+🔗 **Website:** [smartreviewinfo.com](https://smartreviewinfo.com)  
+📌 **Location:** India
